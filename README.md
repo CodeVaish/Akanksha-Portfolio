@@ -3,7 +3,7 @@ This is my first ever personal website built using HTML, CSS, and Bootstrap. It 
 🔰 Beginner-friendly | 💻 Responsive | 🌈 Stylish Gradient Design
 ________________________________________
 live demo
-https://model-potfolio.web.app
+https://akanksha-portfolio-three.vercel.app/
 ________________________________________
 ✨ Features
 •	Clean and modern layout
